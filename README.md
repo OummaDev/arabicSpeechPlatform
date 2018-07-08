@@ -1,2 +1,2 @@
-# arabicstt
-Arabic Speech To Text Platform
+# arabicSpeechPlatform
+Arabic Speech Platform
